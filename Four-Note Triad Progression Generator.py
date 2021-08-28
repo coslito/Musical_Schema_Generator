@@ -11,7 +11,7 @@ inversion = ("Root Position", "1st Inversion", "Second Inversion")
 
 
 
-#Triad Voice-Leading Exercise Generator (Four-Note)
+#Generate!
 print("\nFOUR-NOTE TRIADS PROGRESSION:")
 print(random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types),
 "    ", random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types))

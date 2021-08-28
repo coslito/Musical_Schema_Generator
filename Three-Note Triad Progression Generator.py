@@ -10,7 +10,7 @@ three_string_groups = ('654', '653', '652', '651', '643', '642', '641', '632', '
 inversion = ("Root Position", "1st Inversion", "Second Inversion")
 
 
-#Triad Voice-Leading Exercise Generator (Three-Note)
+#Generate!
 print("\nTHREE-NOTE TRIADS PROGRESSION:")
 print(random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types),
 "    ", random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types))
