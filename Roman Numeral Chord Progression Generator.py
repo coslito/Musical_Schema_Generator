@@ -1,5 +1,5 @@
 #Next: Reconsider enharmonic spellings, ♭IV?, #iii, etc. Which to exclude/include?
-#Remove duplicates in roman_nemrals!
+#Remove duplicates in roman_numerals
 #Prevent duplicates in output
 
 
