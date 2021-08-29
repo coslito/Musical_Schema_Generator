@@ -1,4 +1,4 @@
-#Next: Reconsider enharmonic spellings, ♭IV?, #iii, etc. Which to exclude/include?
+#Next: Reconsider enharmonic spellings, ♭IV?, #iii, and Tonics, etc. Which to exclude/include?
 #Remove duplicates in roman_numerals
 #Prevent duplicates in output
 
