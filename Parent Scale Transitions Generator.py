@@ -4,7 +4,7 @@ import random
 roots = ("A", "A♯", "B", "B♯", "C", "C♯", "D", "D♯", "E", "E♯", "F", "F♯", "G", "G♯", "A♭", "B♭", "C♭", "D♭", "E♭",
          "F♭", "G♭")
 parent_scales = ('Major', 'Melodic Minor', 'Harmonic Minor', 'Half-Whole Diminished', 'Whole-Tone', 'Minor Pentatonic',
-                 'Minor Blues')
+                 'Minor Blues', 'Lydian', 'Dorian', 'Mixolydian', 'Altered')
 
 caged_position = ("C", "A", "G", "E", "D")
 
