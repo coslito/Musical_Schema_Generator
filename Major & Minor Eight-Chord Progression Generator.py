@@ -13,7 +13,7 @@ inversion = ("Root Position", "1st Inversion", "Second Inversion")
 #Generate!
 print("\nTHREE-NOTE TRIADS PROGRESSION:")
 print(random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types),
-"    ", random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types), "    ",
+"    ", random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types), "\n",
 random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types),
 "    ", random.choice(roots), random.choice(triad_types), "    ", random.choice(roots), random.choice(triad_types))
 print("\nSTARTING STRING-SET & INVERSION:")
